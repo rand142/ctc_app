@@ -1,1 +1,3 @@
-streamlit\npandas\nholidays
+streamlit
+pandas
+holidays
